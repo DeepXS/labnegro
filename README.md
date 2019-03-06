@@ -1,3 +1,4 @@
+![Badge Python](https://img.shields.io/badge/docs-python-blue.svg)
 ![Docs Python](https://cdn.discordapp.com/attachments/552944325726830614/552948805280989199/unknown.png)
 
 1 - Rolling  
