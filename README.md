@@ -1,13 +1,11 @@
 ![Badge Python](https://img.shields.io/badge/docs-python-blue.svg)  
 ![Docs Python](https://cdn.discordapp.com/attachments/552944325726830614/552948805280989199/unknown.png)
 
-![Rolling](https://cdn.discordapp.com/emojis/438399396963418131.png?v=1 =10x10) - Rolling  
-2 - Estável  
-3 - Obsoleta  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> - Rolling  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396548313091.png"> - Estável  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399398808911882.png"> - Obsoleta  
 
-<img src='https://cdn.discordapp.com/emojis/438399396963418131.png?v=1' style="width:2px;height:2px;">
-
-2 1 | **Flask >** [Link](http://flask.pocoo.org/docs/1.0/)  
-2 1 | **SQLAlchemy >** [Link](http://flask-sqlalchemy.pocoo.org/2.3/)  
-1 | **Discord.py Rewrite >** [Link](https://discordpy.readthedocs.io/en/rewrite/api.html)  
-3 | **Discord.py Async >** [Link](https://discordpy.readthedocs.io/en/latest/api.html)  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396548313091.png"> <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> | **Flask >** [Link](http://flask.pocoo.org/docs/1.0/)  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396548313091.png"> <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> | **SQLAlchemy >** [Link](http://flask-sqlalchemy.pocoo.org/2.3/)  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> | **Discord.py Rewrite >** [Link](https://discordpy.readthedocs.io/en/rewrite/api.html)  
+<img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399398808911882.png"> | **Discord.py Async >** [Link](https://discordpy.readthedocs.io/en/latest/api.html)  
