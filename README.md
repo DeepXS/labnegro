@@ -5,7 +5,7 @@
 2 - Estável  
 3 - Obsoleta  
 
-<img src='https://cdn.discordapp.com/emojis/438399396963418131.png?v=1' style="width:5px;height:5px;">
+<img src='https://cdn.discordapp.com/emojis/438399396963418131.png?v=1' style="width:2px;height:2px;">
 
 2 1 | **Flask >** [Link](http://flask.pocoo.org/docs/1.0/)  
 2 1 | **SQLAlchemy >** [Link](http://flask-sqlalchemy.pocoo.org/2.3/)  
