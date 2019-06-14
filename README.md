@@ -1,5 +1,5 @@
 ![Docs Python](https://cdn.discordapp.com/attachments/552944325726830614/554458041089785867/PythonDocs.png)
-![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=discord&logoColor=yellow&logoWidth=40)
+![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=discord&logoColor=yellow&logoWidth=40?logo=data:http://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/python-icon.html;base64,…)
 ![Badge Discord](https://img.shields.io/discord/425864977996578816.svg?color=%2315cd72&logo=DISCORD&style=for-the-badge)
 
 
