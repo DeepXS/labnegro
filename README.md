@@ -1,5 +1,5 @@
 ![Docs Python](https://cdn.discordapp.com/attachments/552944325726830614/554458041089785867/PythonDocs.png)
-![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=data:https://cdn.discordapp.com/attachments/512703793348083712/584858170015612949/LogoLab-2.png&logoColor=&logoWidth=40?&logo=discord)
+![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=discord&logoColor=&logoWidth=40)
 ![Badge Discord](https://img.shields.io/discord/425864977996578816.svg?color=%2315cd72&logo=DISCORD&style=for-the-badge)
 
 
