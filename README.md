@@ -1,5 +1,5 @@
 ![Docs Python](https://cdn.discordapp.com/attachments/552944325726830614/554458041089785867/PythonDocs.png)
-![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=appveyor&logoColor=yellow)
+![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=appveyor&logoColor=yellow&logoWidth=40)
 
 
 <img src="https://cdn.discordapp.com/emojis/438399396963418131.png" width="15" height="15" alt="portfolio_view"> - ROLLING  
