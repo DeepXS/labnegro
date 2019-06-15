@@ -4,9 +4,9 @@
 ![Badge Discord](https://img.shields.io/discord/425864977996578816.svg?color=%2315cd72&logo=DISCORD&style=for-the-badge&logoWidth=40)
 
 
-<img src="https://cdn.discordapp.com/emojis/438399396963418131.png" width="15" height="15" alt="portfolio_view"> - ROLLING  
-<img src="https://cdn.discordapp.com/emojis/438399396548313091.png" width="15" height="15" alt="portfolio_view"> - ESTAVEL  
-<img src="https://cdn.discordapp.com/emojis/438399398808911882.png" width="15" height="15" alt="portfolio_view"> - OBSOLETA  
+<img src="https://cdn.discordapp.com/emojis/589473352700264504.png" width="20" height="20" alt="portfolio_view"> ▏ ROLLING  
+<img src="https://cdn.discordapp.com/emojis/589473451337580565.png" width="15" height="15" alt="portfolio_view"> ▏ ESTAVEL  
+<img src="https://cdn.discordapp.com/emojis/588537013787951105.png" width="15" height="15" alt="portfolio_view"> ▏ OBSOLETA  
 
 <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396548313091.png"> <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> | **Flask >** [Link](http://flask.pocoo.org/docs/1.0/)  
 <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396548313091.png"> <img width="15" height="15" alt="portfolio_view" src="https://cdn.discordapp.com/emojis/438399396963418131.png"> | **SQLAlchemy >** [Link](http://flask-sqlalchemy.pocoo.org/2.3/)  
