@@ -1,5 +1,5 @@
 <p style="align:center">
-  <img src="https://cdn.discordapp.com/attachments/512703793348083712/584858171487682560/LogoLab-3.png"/>
+  <img src="https://cdn.discordapp.com/attachments/512703793348083712/584858171487682560/LogoLab-3.png?"/>
 </p>
 
 ![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=discord&logoColor=&logoWidth=40)
