@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME TO LABNEGRO!</h1>
+<h1 align="center">WELCOME TO <b>LABNEGRO!</b></h1>
 
 <p align="center">Seja bem vindo à introdução de nosso repositório official</p>
 
