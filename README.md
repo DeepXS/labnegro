@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/529064511479480351/534423641300008960/InfoLabNegro.png/">
+<img align="center" src="https://cdn.discordapp.com/attachments/461554501724143626/629837959822049305/LogoLab-3.png">
 
 ![Badge Python](https://img.shields.io/badge/docs-python-blue.svg?style=for-the-badge&logo=discord&logoColor=&logoWidth=40)
 ![Badge Discord](https://img.shields.io/discord/425864977996578816.svg?color=%2315cd72&logo=DISCORD&style=for-the-badge&logoWidth=40)
